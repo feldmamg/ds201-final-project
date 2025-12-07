@@ -10,6 +10,8 @@ Our project is to see if we can get more members to our gym. Our goal is to dete
 
 FINDINGS
 
+In the 2014 CDC Diabetes Health Indicators dataset that contained around 250,000 adults, about 12.4% of people reported ten or more poor mental health days in the last month. When we split BMI, people with a BMI greater than or equal to 40 (Class 2 obesity). The average poor-mental-health days was around 5.7 for a BMI greater than or equal to 40 and for a BMI less than 40 there was an average of 3 bad mental health days. The probability of less than 10 mental health day was 23% for a BMI greater than 40 and 12% for a BMI less than 40. A simple logistic regression using self reported general, mental, and physical health to predict obesity (a BMI greater than or equal to 30) is at about a 65% accuracy. 
+
 IMAGES
 
 <img width="590" height="455" alt="image" src="https://github.com/user-attachments/assets/12d4ee66-0d0d-44eb-9715-dc28ff42b2c9" />
